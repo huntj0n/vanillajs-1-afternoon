@@ -2,7 +2,7 @@
 
 # Tic Tac Toe Board
 
-# Project Summary
+# Project Summary 
 
 In this project, we will practice vanilla Javascript DOM manipulation by creating a Tic Tac Toe game.
 
