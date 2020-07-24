@@ -1,8 +1,8 @@
 console.log('the house always wins!')
 
-let idInput = document.getElementById('idInput');
+const idInput = document.getElementById('idInput');
 console.log(idInput)
-let colorInput = document.getElementById('colorInput');
+const colorInput = document.getElementById('colorInput');
 console.log(colorInput);
 
 function setCard(){
